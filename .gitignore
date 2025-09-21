@@ -1,1 +1,4 @@
+# Chapter 1
 get-dependencies/
+hello_cargo/target/
+hello_cargo/*.lock
